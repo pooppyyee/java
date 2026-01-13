@@ -1,0 +1,19 @@
+API: Application Programming Interface
+JRE: Java Runtime Environment 
+JVM: Java Virtual Machine
+IDE: Integrated Development Environment 
+JDK: Java Development Kit
+GUI: Graphical User Interface
+OOP: Object Oriented Programming
+JDBC: Java Database Connectivity
+JAR: Java ARchive
+
+Java source code is translated into (bytecode) when compiled without any errors.
+
+A (block) is a group of programming statements surrounded by braces.
+
+Programming errors can be categorized into three types: (syntax errors, runtime errors, and logic errors.)
+
+Errors detected by the compiler are known as (syntax errors or compile-time errors.)
+
+(Runtime) errors are errors that cause a program to terminate abnormally and occur while a program is running if the environment detects an operation that is impossible to carry out.
